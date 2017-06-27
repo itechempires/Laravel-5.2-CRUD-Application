@@ -1,0 +1,15 @@
+.cc_nodes_tree{
+    cursor: pointer;
+    color: #000000;
+    padding: 6px;
+}
+.cc_nodes_tree:hover{
+    background-color: #297ACC !important;
+    color: #fff!important;
+    padding: 6px;
+}
+.cc_nodes_tree_selection {
+    background-color: #297ACC !important;
+    color: #fff!important;
+    padding: 6px;
+}
