@@ -8,6 +8,6 @@
  - Read existing records from the database 
  - Update existing records from the database 
  - Delete Existing records from the database
-- 
+ 
 ### Tutorial Link:
 - http://www.itechempires.com/2016/07/laravel-5-crud-operations/
